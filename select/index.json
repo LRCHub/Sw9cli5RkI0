@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "隠密恋愛行為 / capo2 (Full English Sub)",
+  "base_artist": "capo2",
+  "createdAt": "2026-02-20T14:43:07.978579Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "隠密恋愛行為",
+      "artist": "capo2",
+      "has_synced": false,
+      "path": "select/pl_01_隠密恋愛行為_capo2.txt"
+    }
+  ]
+}
